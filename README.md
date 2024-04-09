@@ -16,5 +16,5 @@ M.Sc. Computer Science @(https://github.com/KTH)<br>Software Developer<br>Game S
 ![](https://leetcode-stats-inky.vercel.app/?username=Makimi)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MaximilianAdF&icon=0&color=0)](https://visitcount.itsvg.in)]
+[![](https://visitcount.itsvg.in/api?id=MaximilianAdF&icon=0&color=0)](https://visitcount.itsvg.in)
 
