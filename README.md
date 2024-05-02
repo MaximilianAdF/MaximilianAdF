@@ -12,7 +12,7 @@
 
 <div align="center">
   
-  💼 Currently Working on **Drone Swarm Search Algorithm**, **[NoPixel Minigames](https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0)**, **[Leetcode Statistics Showcase](https://github.com/MaximilianAdF/Leetcode-Stats)**
+  💼 Currently Working on | [**Drone Swarm Search Algorithm**]() | **[NoPixel Minigames](https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0)** | **[Leetcode Statistics Showcase](https://github.com/MaximilianAdF/Leetcode-Stats)** |
   
   📚 Currently Studying M.Sc. Computer Science @<a href="https://github.com/KTH">KTH</a>
   
