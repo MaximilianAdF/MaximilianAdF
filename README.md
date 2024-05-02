@@ -39,9 +39,7 @@
 </div>
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=MaximilianAdF&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="300px">
-
-![](https://github-readme-stats.vercel.app/api?username=MaximilianAdF&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=MaximilianAdF&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianAdF&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=MaximilianAdF&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianAdF&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150px"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MaximilianAdF&theme=dark&hide_border=false" height="150px">
 
 # Leetcode:
 Made with and *dynamically* updated by [MaximilianAdF´s LeetCode-stats](https://github.com/MaximilianAdF/Leetcode-Stats)
