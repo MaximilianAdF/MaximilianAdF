@@ -39,7 +39,7 @@
 </div>
 
 # 📊 GitHub Stats:
-<div style="display: flex;">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=MaximilianAdF&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="width: 33.33%;" height="120px">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianAdF&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 33.33%;" height="120px">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaximilianAdF&theme=dark&hide_border=false" style="width: 33.33%;" height="120px">
