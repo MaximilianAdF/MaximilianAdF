@@ -51,6 +51,6 @@
 # Leetcode:
 Made with and *dynamically* updated by [MaximilianAdF´s LeetCode-stats](https://github.com/MaximilianAdF/Leetcode-Stats)
 
-![](https://leetcode-stats-inky.vercel.app/?username=Makimi)
+![](https://leetcode-stats-inky.vercel.app/?username=Makimi&ranking=true)
 
 ---
