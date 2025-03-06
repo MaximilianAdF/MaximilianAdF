@@ -50,9 +50,11 @@
 
 # Leetcode:
 <div align="center">
+  
   Made with and *dynamically* updated by [MaximilianAdF´s LeetCode-stats](https://github.com/MaximilianAdF/Leetcode-Stats)
   
   [![LeetCode Stats](https://leetcode-stats-inky.vercel.app/?username=Makimi&ranking=true)](https://www.leetcode.com/Makimi)
+  
 </div>
 
 ---
