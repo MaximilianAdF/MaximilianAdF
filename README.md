@@ -1,60 +1,11 @@
-<img align="right" src="https://visitcount.itsvg.in/api?id=MaximilianAdF&icon=0&color=0">
+# Hi, I’m Max.
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=500&height=70&lines=Maximilian;Alvim+de+Faria"/>
-  </a>
-</h1>
+I study Computer Science and Engineering at KTH and specialize in embedded systems. I’m currently on exchange at Cal State Fullerton. Previously, I interned at Accenture and taught at KTH.
 
-<h3 align="center">🇸🇪 Software Engineer from Sweden 🇸🇪</h3>
+## [nphacks.net](https://nphacks.net)
 
-<br/>
+I wanted to play the NoPixel minigames I’d seen on Twitch, so I built my own versions. One day I tuned into xQc’s stream and saw him playing them.
 
-<div align="center">
-  
-  💼 Currently Working on | [**Drone Swarm Search Algorithm**]() | **[NoPixel Minigames](https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0)** | **[INDA Manager](https://github.com/MaximilianAdF/INDA-manager)** |
-  
-  📚 Currently Studying M.Sc. Computer Science @<a href="https://github.com/KTH">KTH</a>
-  
-  🌱 Currently Learning **Haskell** & **Golang**
+[![Roof Running minigame](https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0/assets/63980031/e8387474-4a34-4f02-842f-195484160a60)](https://nphacks.net/puzzles/roof-running)
 
-</div>
-
-<div align="center">
-  <a href="mailto:maximilian.adf@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
-  </a>
-  <a href="https://linkedin.com/in/maximilian-alvim-de-faria-151948241" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
-  </a>
-</div>
-
-<h2 align="center">🧩 Languages | FrameWorks | Tools 🧩</h2>
-<br/>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,vscode,express,react,flask"><br/>
-    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,git,golang,c,cpp,python">
-  </a>
-</div>
-
-# 📊 GitHub Stats:
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MaximilianAdF&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="width: 33.33%;" height="120px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianAdF&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 33.33%;" height="120px">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaximilianAdF&theme=dark&hide_border=false" style="width: 33.33%;" height="120px">
-</div>
-
-
-
-
-# Leetcode:
-<div align="center">
-  
-  Made with and *dynamically* updated by [MaximilianAdF´s LeetCode-stats](https://github.com/MaximilianAdF/Leetcode-Stats)
-  
-  [![LeetCode Stats](https://leetcode-stats-inky.vercel.app/?username=Makimi&ranking=true)](https://www.leetcode.com/Makimi)
-  
-</div>
-
----
+**[Play Roof Running ↗](https://nphacks.net/puzzles/roof-running)** · **[View source](https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0)** · 10,000+ monthly visitors
